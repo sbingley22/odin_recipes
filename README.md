@@ -1,0 +1,1 @@
+A simple tutorial project setting up a recipes list.
